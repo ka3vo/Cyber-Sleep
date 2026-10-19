@@ -4,7 +4,7 @@ Aucune installation nécessaire. Pas besoin de Python, pas besoin de modules.
 
 ## 1. Télécharger
 
-Va dans l'onglet [Releases](https://github.com/ka3vo/Cyber-sommeil/releases) du repo et télécharge le fichier **`CyberSleep.exe`**.
+Va dans l'onglet [Releases](https://github.com/ka3vo/Cyber-Sleep/releases) du repo et télécharge le fichier **`CyberSleep.exe`**.
 
 ## 2. Lancer
 
