@@ -1,0 +1,20 @@
+# Fichiers sensibles - NE JAMAIS les committer
+token.txt
+settings.txt
+*.token
+
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Autres
+qrcode.png
+.DS_Store
+Thumbs.db
