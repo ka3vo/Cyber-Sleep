@@ -1,0 +1,9 @@
+colorama
+pyfiglet
+requests
+phonenumbers
+dnspython
+python-whois
+qrcode
+pillow
+speedtest-cli
