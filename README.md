@@ -2,6 +2,7 @@
 
 Outil CLI tout-en-un : Discord, OSINT et réseau, dans un dashboard en terminal.
 
+![status](https://img.shields.io/badge/status-en%20développement-red)
 
 ## Fonctionnalités
 
@@ -24,7 +25,7 @@ Outil CLI tout-en-un : Discord, OSINT et réseau, dans un dashboard en terminal.
 Il te faut [Python 3.10+](https://www.python.org/downloads/) installé (coche "Add Python to PATH" pendant l'installation sous Windows).
 
 ```bash
-git clone https://github.com/ka3vo/Cyber-sommeil.git
+git clone https://github.com/ka3vo/Cyber-Sleep.git
 cd Cyber-sommeil
 pip install -r requirements.txt
 ```
@@ -39,7 +40,7 @@ Au premier lancement, un guide t'explique comment créer un bot Discord gratuit 
 
 ## Version .exe (Windows, sans Python)
 
-Une version compilée est disponible dans l'onglet [Releases](https://github.com/ka3vo/Cyber-sommeil/releases) du repo — télécharge juste le `.exe`, pas besoin d'installer Python ni aucun module.
+Une version compilée est disponible dans l'onglet [Releases](https://github.com/ka3vo/Cyber-Sleep/releases) du repo — télécharge juste le `.exe`, pas besoin d'installer Python ni aucun module.
 
 Pour la compiler toi-même :
 ```bash
@@ -52,4 +53,4 @@ L'exécutable est généré dans le dossier `dist/`.
 
 - Ne commit jamais `token.txt` ou `settings.txt` (déjà exclus via `.gitignore`).
 - Le Port Scanner est à utiliser uniquement sur tes propres machines/serveurs.
-- Cet outil est fourni à but éducatif et pour un usage légitime (vérification de comptes, sécurité réseau personnelle, recherche d'informations publiques).l.
+- Cet outil est fourni à but éducatif et pour un usage légitime (vérification de comptes, sécurité réseau personnelle, recherche d'informations publiques).
